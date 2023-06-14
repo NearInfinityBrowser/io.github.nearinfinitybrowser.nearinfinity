@@ -2,6 +2,8 @@
 
 A flatpak package for [Near Infinity](https://github.com/NearInfinityBrowser/NearInfinity).
 
+<a href='https://flathub.org/apps/io.github.nearinfinitybrowser.nearinfinity'><img width='180' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-i-en.svg'/></a>
+
 This repository contains the sources for building the flatpak package.
 
 Please report bugs related to Near Infinity in the [upstream issue tracker](https://github.com/NearInfinityBrowser/NearInfinity/issues).
