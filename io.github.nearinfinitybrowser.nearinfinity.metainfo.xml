@@ -16,7 +16,7 @@
 
   <description>
     <p>
-      Near Infinity is an open source browser and editor, written in Java, for resources of Infinity Engine games, such as Baldur&apos;s Gate, Icewind Dale or Planescape Torment.
+      Near Infinity is an open source browser and editor, written in Java, for resources of Infinity Engine games, such as Baldur's Gate, Icewind Dale or Planescape Torment.
     </p>
     <p>
       It can be used to browse through all available resource types supported by the Infinity Engine and provides editing capabilities for most of them.
@@ -67,6 +67,7 @@
   <content_rating type="oars-1.0"/>
 
   <releases>
+    <release version="v2.4-20230625" date="2023-06-25"/>
     <release version="v2.3-20230610" date="2023-06-10"/>
   </releases>
 

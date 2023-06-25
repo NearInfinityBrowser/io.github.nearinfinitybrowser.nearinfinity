@@ -42,7 +42,8 @@ modules:
       - type: script
         dest-filename: nearinfinity
         commands:
-          - exec java -jar /app/share/NearInfinity.jar -no-update -no-launch-game "$@"
+          - exec java -jar /app/share/NearInfinity.jar -no-update -no-launch-game
+            "$@"
       - type: file
         path: io.github.nearinfinitybrowser.nearinfinity.desktop
       - type: file
@@ -71,10 +72,11 @@ modules:
       - type: file
         path: io.github.nearinfinitybrowser.nearinfinity.metainfo.xml
       - type: archive
-        url: https://github.com/Argent77/NearInfinity/releases/download/v2.3-20230610/NearInfinity-20230610.zip
-        sha256: 8aeaccfbdae4e4f659630f7b5b5b87a95629460ded09fa77b032cd7d0e9891ba
+        url: https://github.com/Argent77/NearInfinity/releases/download/v2.4-20230625/NearInfinity-20230625.zip
+        sha256: 3348fd6c79d9870e7ab7ea7137dcaba25a69efd5b01c4da4c04a9a569bd27d59
         x-checker-data:
           type: json
           url: https://api.github.com/repos/Argent77/NearInfinity/releases/latest
           version-query: .tag_name
-          url-query: .assets[] | select(.name | match("^NearInfinity(-v?\\d+(\\.\\d+)*)?(-\\d+(-.+)?)?\\.zip$"; "i")) | .browser_download_url
+          url-query: .assets[] | select(.name | match("^NearInfinity(-v?\\d+(\\.\\d+)*)?(-\\d+(-.+)?)?\\.zip$";
+            "i")) | .browser_download_url
