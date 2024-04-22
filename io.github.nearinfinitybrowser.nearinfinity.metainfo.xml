@@ -8,7 +8,7 @@
   <developer_name>Near Infinity developers</developer_name>
   <url type="homepage">https://github.com/NearInfinityBrowser/NearInfinity/wiki</url>
   <url type="bugtracker">https://github.com/NearInfinityBrowser/NearInfinity/issues</url>
-  <url type="help">https://github.com/NearInfinityBrowser/NearInfinity/wiki</url>
+  <url type="help">https://github.com/NearInfinityBrowser/NearInfinity/discussions</url>
   <url type="vcs-browser">https://github.com/NearInfinityBrowser/NearInfinity</url>
 
   <metadata_license>CC-BY-SA-4.0</metadata_license>
@@ -29,40 +29,51 @@
   <screenshots>
     <screenshot type="default">
       <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-view-wmp.jpg</image>
+      <caption>Worldmap View Mode</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-view-itm.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-view-itm.png</image>
+      <caption>Item View Mode</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-edit-are.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-edit-are.png</image>
+      <caption>Area Edit Mode</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/area-viewer-actor-animations.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/area-viewer-actor-animations.jpg</image>
+      <caption>Area Viewer</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/area-viewer-auto-fit.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/area-viewer-auto-fit.jpg</image>
+      <caption>Area Viewer</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-edit-bcs.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-edit-bcs.png</image>
+      <caption>BCS Script Editor</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-animation-cre.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-animation-cre.png</image>
+      <caption>Creature Animation Viewer</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-search-spl.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-search-spl.png</image>
+      <caption>Find Resources</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-search-advanced-example4.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-search-advanced-example4.png</image>
+      <caption>Advanced Search</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-bam-converter-frames.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-bam-converter-frames.png</image>
+      <caption>BAM Animation Converter</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-raw-itm.webp</image>
+      <image>https://raw.githubusercontent.com/NearInfinityBrowser/NearInfinity-assets/master/screenshots/ni-main-raw-itm.png</image>
+      <caption>Item Raw Edit Mode</caption>
     </screenshot>
   </screenshots>
 
-  <content_rating type="oars-1.0"/>
+  <content_rating type="oars-1.1"/>
 
   <releases>
     <release version="v2.4-20231231" date="2023-12-31"/>
