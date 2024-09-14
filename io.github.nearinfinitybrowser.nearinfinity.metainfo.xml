@@ -76,6 +76,9 @@
   <content_rating type="oars-1.1"/>
 
   <releases>
+    <release version="v2.4-20240914" date="2024-09-14">
+      <description></description>
+    </release>
     <release version="v2.4-20240424" date="2024-04-24"/>
     <release version="v2.4-20231231" date="2023-12-31"/>
     <release version="v2.4-20230729" date="2023-07-29"/>
